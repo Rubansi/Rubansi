@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Rubansi
 
-<!--
-**Rubansi/Rubansi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech Enthusiast from Nairobi, Kenya.
 
-Here are some ideas to get you started:
+🌐 Visit my portfolio: [rubansi.netlify.app](https://rubansi.netlify.app)  
+🔗 Connect with me on LinkedIn: [in/rubansi](https://www.linkedin.com/in/rubansi)  
+🐦 Follow me on Twitter: [@Rubansi254](https://twitter.com/Rubansi254)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Pinned Projects
+
+Here are some of my highlighted projects:  
+
+- **[aws-ccp-test](https://github.com/Rubansi/aws-ccp-test)** — AWS-CCP Exam project  
+- **[aws-tests](https://github.com/Rubansi/aws-tests)** — AWS CCP Exam  
+- **[rubansi.github.io](https://github.com/Rubansi/rubansi.github.io)** — My portfolio website
+
+## 💻 Tech Interests
+
+- Cloud technologies (AWS)  
+- Frontend web development (HTML)  
+- Portfolio and personal project development
+
+## 📈 GitHub Stats
+
+![Rubansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubansi&show_icons=true&theme=radical)
+
+---
+
+## 📫 How to reach me
+
+- Email: (You can add your email here if you want)  
+- LinkedIn: [https://www.linkedin.com/in/rubansi](https://www.linkedin.com/in/rubansi)  
+- Twitter: [@Rubansi254](https://twitter.com/Rubansi254)
+
+---
+
+Thank you for visiting my GitHub profile!
+
