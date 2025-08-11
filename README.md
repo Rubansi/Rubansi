@@ -8,14 +8,6 @@ Tech Enthusiast from Nairobi, Kenya.
 
 ---
 
-## 🚀 Pinned Projects
-
-Here are some of my highlighted projects:  
-
-- **[aws-ccp-test](https://github.com/Rubansi/aws-ccp-test)** — AWS-CCP Exam project  
-- **[aws-tests](https://github.com/Rubansi/aws-tests)** — AWS CCP Exam  
-- **[rubansi.github.io](https://github.com/Rubansi/rubansi.github.io)** — My portfolio website
-
 ## 💻 Tech Interests
 
 - Cloud technologies (AWS)  
