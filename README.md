@@ -2,14 +2,15 @@
 
 Tech Enthusiast from Nairobi, Kenya.
 
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML Logo" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS Logo" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Logo" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" alt="Python Logo" />
+
 🌐 Visit my portfolio: [rubansi.netlify.app](https://rubansi.netlify.app)  
 🔗 Connect with me on LinkedIn: [in/rubansi](https://www.linkedin.com/in/rubansi)  
 🐦 Follow me on Twitter: [@Rubansi254](https://twitter.com/Rubansi254)
 
----
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML Logo" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS Logo" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Logo" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" alt="Python Logo" />
+
 
 ---
 ## 💻 Tech Interests
