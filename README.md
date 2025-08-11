@@ -22,7 +22,8 @@ Tech Enthusiast from Nairobi, Kenya.
 
 ## 📫 How to reach me
 
-- Email: (You can add your email here if you want)  
+- Email: rubansi04@gmail.com
+- Phone: 0731 311 611  
 - LinkedIn: [https://www.linkedin.com/in/rubansi](https://www.linkedin.com/in/rubansi)  
 - Twitter: [@Rubansi254](https://twitter.com/Rubansi254)
 
