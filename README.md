@@ -18,9 +18,9 @@ Tech Enthusiast from Nairobi, Kenya.
 - Cloud technologies (AWS Solutions Architect)  
 - Frontend web development (HTML, CSS, JS, React)  
 - Backend web development (Express, Django)
-- Database (PostgreSQL, Mongo)
-- Systems Design 
-- Systems audit
+- Database Design (PostgreSQL, Mongo)
+- Version Control (Git, Github, Github Actions)
+
 
 ## 📈 GitHub Stats
 
