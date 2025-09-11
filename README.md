@@ -24,13 +24,9 @@ Tech Enthusiast from Nairobi, Kenya.
 
 ## 📈 GitHub Stats
 
-![Rubansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubansi&show_icons=true&theme=radical)
-
----
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rubansi)](https://git.io/streak-stats)
-
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubansi)](https://github.com/anuraghazra/github-readme-stats)
+![Rubansi's Stats](https://github-readme-stats.vercel.app/api?username=Rubansi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Rubansi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rubansi&theme=vue-dark&hide_border=true)
+![Rubansi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubansi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 ## 📫 How to reach me
