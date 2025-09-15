@@ -4,13 +4,6 @@ Tech Enthusiast from Nairobi, Kenya.
 ---
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,figma,linux,wordpress,aws,git,github,vscode,mongodb,express,react,nodejs)](https://skillicons.dev)
 
-
-🌐 Visit my portfolio: [rubansi.netlify.app](https://rubansi.netlify.app)  
-🔗 Connect with me on LinkedIn: [in/rubansi](https://www.linkedin.com/in/rubansi)  
-🐦 Follow me on Twitter: [@Rubansi254](https://twitter.com/Rubansi254)
-
-
-
 ---
 ## 💻 Tech Interests
 
@@ -30,10 +23,9 @@ Tech Enthusiast from Nairobi, Kenya.
 
 ## 📫 How to reach me
 
-- Email: rubansi04@gmail.com
-- Phone: 0731 311 611  
-- LinkedIn: [https://www.linkedin.com/in/rubansi](https://www.linkedin.com/in/rubansi)  
-- Twitter: [@Rubansi254](https://twitter.com/Rubansi254)
+🌐 [Portfolio](https://rubansi.netlify.app/)  | 
+🔗 [LinkedIn](https://www.linkedin.com/in/rubansi)  | 
+🐦 [Twitter](https://twitter.com/Rubansi254)
 
 ---
 
