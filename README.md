@@ -4,7 +4,6 @@ Tech Enthusiast from Nairobi, Kenya.
 ---
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,figma,linux,wordpress,aws,git,github,vscode,mongodb,express,react,nodejs)](https://skillicons.dev)
 
----
 ## 💻 Tech Interests
 
 - Cloud technologies (AWS Solutions Architect)  
