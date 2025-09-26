@@ -12,6 +12,9 @@ Tech Enthusiast from Nairobi, Kenya.
 - Database Design (PostgreSQL, Mongo)
 - Version Control (Git, Github, Github Actions)
 
+### 📈 GitHub Activity Graph:
+[![Rubansi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rubansi)](https://github.com/Rubansi)
+
 
 ## 📈 GitHub Stats
 
